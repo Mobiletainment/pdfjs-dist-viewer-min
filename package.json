@@ -1,10 +1,10 @@
 {
-  "name": "pdfjs-dist-viewer-min",
-  "version": "1.10.88",
-  "description": "Generic minified build of Mozilla's PDF.js library including the viewer component.",
+  "name": "pdfjs-dist-viewer-min-edge-annotation-fix",
+  "version": "1.10.88-fix",
+  "description": "Generic minified build of Mozilla's PDF.js library including the viewer component and a fix to gracefully handling exceptions during annotation creation.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oci-labs/pdfjs-dist-viewer-min.git"
+    "url": "git+https://github.com/mobiletainment/pdfjs-dist-viewer-min.git"
   },
   "keywords": [
     "PDF.js",
